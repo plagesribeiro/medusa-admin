@@ -1,1 +1,1 @@
-export const WRITE_KEY = "CgSOOuDMovQRSSTytDLqbhVs9xP0wb4U"
+export const WRITE_KEY = "UDd6qGOQ9cLUuyskGy47jn0K3tDvJTa6"
